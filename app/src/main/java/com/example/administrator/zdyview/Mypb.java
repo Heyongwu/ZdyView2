@@ -14,9 +14,6 @@ import android.view.View;
 import java.util.Timer;
 import java.util.TimerTask;
 
-/**
- * Created by 何永武 on 2017/11/5.
- */
 
 public class Mypb extends View {
 

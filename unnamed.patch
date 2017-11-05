@@ -1,0 +1,32 @@
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(revision )
++++ .idea/vcs.xml	(revision )
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: app/src/main/java/com/example/administrator/zdyview/Mypb.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/example/administrator/zdyview/Mypb.java	(revision 32061990da1dab63f9480c4e7403b4533fa593e5)
++++ app/src/main/java/com/example/administrator/zdyview/Mypb.java	(revision )
+@@ -14,9 +14,6 @@
+ import java.util.Timer;
+ import java.util.TimerTask;
+ 
+-/**
+- * Created by 何永武 on 2017/11/5.
+- */
+ 
+ public class Mypb extends View {
+ 
